@@ -1,6 +1,6 @@
 # themill-website-showcase
 
-# The Mill at Hoveringham - Website Showcase
+# The Mill - Website Showcase
 
 A cinematic luxury hospitality website concept currently being developed locally using VS Code, GitHub, and modern AI-assisted development workflows.
 
